@@ -991,5 +991,5 @@ LETTER_NULL:
 
 <br>
 
-## License
+# License
 [MIT](https://raw.githubusercontent.com/mytechnotalent/STM32F4_SSD1306_Driver/main/LICENSE)
